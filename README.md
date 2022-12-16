@@ -1,0 +1,1 @@
+Hello Git, aprendendo nessa merda!
